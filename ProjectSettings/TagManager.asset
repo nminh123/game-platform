@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - CheckPoint
+  - MovingPlatform
+  - Door
+  - Thorn
+  - CollectTable
+  - DeadZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - Player
+  - Invincible
+  - Dead
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 936154441
+    locked: 0
+  - name: ForceGround
+    uniqueID: 2937543059
+    locked: 0
+  - name: GamePlay
+    uniqueID: 4208881165
+    locked: 0
+  - name: Front
+    uniqueID: 2426381227
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
